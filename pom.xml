@@ -14,6 +14,10 @@
         <module>gmall-redisson-test</module>
         <module>gmall-search-service</module>
         <module>gmall-search-web</module>
+        <module>gmall-cart-web</module>
+        <module>gmall-cart-service</module>
+        <module>gmall-passport-web</module>
+        <module>gmall-user-service</module>
     </modules>
 
     <parent>
